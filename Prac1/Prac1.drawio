@@ -45,7 +45,7 @@
                 <mxCell id="C-vyLk0tnHw3VtMMgP7b-18" value="&#10;&#10;&#10;&#10;&#10;&#10;&#10;FK1&#10;FK2" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
                     <mxGeometry width="30" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="C-vyLk0tnHw3VtMMgP7b-19" value="EMP_FNAME&#10;EMP_LNAME&#10;STREET&#10;CITY&#10;STATE&#10;EMP_POSITION&#10;EMP_DOB&#10;DEPT_CODE&#10;OB_CODE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;verticalAlign=top;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
+                <mxCell id="C-vyLk0tnHw3VtMMgP7b-19" value="EMP_FNAME&#10;EMP_LNAME&#10;STREET&#10;CITY&#10;STATE&#10;EMP_POSITION&#10;EMP_DOB&#10;DEPT_CODE&#10;JOB_CODE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;verticalAlign=top;strokeColor=#457B9D;fontColor=#1D3557;" parent="C-vyLk0tnHw3VtMMgP7b-17" vertex="1">
                     <mxGeometry x="30" width="220" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="pjrwoAT1iINBEWoW5p7u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=1;endArrow=ERmandOne;endFill=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="C-vyLk0tnHw3VtMMgP7b-13" edge="1">
